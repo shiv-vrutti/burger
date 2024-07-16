@@ -7,4 +7,5 @@ int main (){
     printf("Bhajiya");
     printf("Pollo");
     printf("oreo");
+    printf("khichdi");
 }
